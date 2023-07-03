@@ -1,0 +1,5 @@
+salesforce-lavis
+scenedetect[opencv]
+boto3
+moviepy
+git+https://github.com/huggingface/transformers
